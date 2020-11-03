@@ -8,5 +8,6 @@ setup(
     author='jongmin lee',
     author_email='darkize@naver.com',
     license='unlicense',
+    packages=['qubvel_segmentation_patch'],
     zip_safe=False
 )
